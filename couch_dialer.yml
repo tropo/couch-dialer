@@ -1,0 +1,6 @@
+couch_db: http://localhost:5984/couch_dialer/
+tropo:
+    base_uri: http://api.tropo.com/1.0/sessions
+    token: e450a8d354b56842a18c12c50de12aee3af0f575a83adc143d33e60f49f44b6e9b527348708eb5c65b120075
+    caller_id: 6503235042
+    
